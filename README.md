@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋, I Sergey Kosarev, beginner java-developer. I know Java SE. Me contact: Kosarev90sv@icloud.com
 
 <!--
 **Kosarev90/Kosarev90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
